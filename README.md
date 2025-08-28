@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ello there 👋
 
 I'm Gabe and I'm a Computer Science/Business Admin student studying at USC!
 
